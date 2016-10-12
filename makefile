@@ -5,4 +5,4 @@ upload:
 	git add .;git commit -m “update”;git push origin gh-pages
 
 pull:
-	git pull origin gh-pages
+	eval `ssh-agent`;ssh-add ~/.ssh/id_rsa_todo;ssh -T git@github-todo;git pull origin gh-pages
