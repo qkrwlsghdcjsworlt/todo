@@ -1,5 +1,5 @@
 ---
-type: "emacs 설정"
+type: "2018"
 duration: "2018.JAN.06"
 
 ---

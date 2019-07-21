@@ -1,8 +1,10 @@
 ---
-type: "Book depository"
+type: "2018" 
 duration: "2018.JAN.30"
 
 ---
+
+"Book depository"
 
 왕좌의 게임, 트와라잇을 구매하였는데
 ```
