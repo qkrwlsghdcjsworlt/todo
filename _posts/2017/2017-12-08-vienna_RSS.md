@@ -1,5 +1,5 @@
 ---
-type: "Vienna RSS"
+heading: "Vienna RSS"
 duration: "2017.DEC.08"
 
 ---

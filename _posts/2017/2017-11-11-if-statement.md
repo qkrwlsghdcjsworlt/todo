@@ -1,5 +1,5 @@
 ---
-type: "c ? A:B"
+heading: "c ? A:B"
 duration: "2017.Nov.11"
 
 ---

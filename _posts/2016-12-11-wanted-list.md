@@ -1,5 +1,5 @@
 ---
-type: "wanted"
+heading: "wanted"
 duration: "2016.Dec.11"
 
 

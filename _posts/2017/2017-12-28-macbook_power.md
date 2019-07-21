@@ -1,5 +1,5 @@
 ---
-type: "맥북 충전기"
+heading: "맥북 충전기"
 duration: "2017.DEC.28"
 
 ---

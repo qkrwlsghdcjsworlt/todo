@@ -1,5 +1,5 @@
 ---
-type: "brew zshrc"
+heading: "brew zshrc"
 duration: "2017.DEC.12"
 
 ---

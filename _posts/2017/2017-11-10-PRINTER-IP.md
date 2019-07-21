@@ -1,5 +1,5 @@
 ---
-type: "프린터 IP"
+heading: "프린터 IP"
 duration: "2017.Nov.10"
 
 ---
