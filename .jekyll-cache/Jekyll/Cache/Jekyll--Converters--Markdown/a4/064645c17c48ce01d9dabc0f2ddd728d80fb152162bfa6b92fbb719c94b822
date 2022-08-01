@@ -1,0 +1,6 @@
+I"�<p>원래 defaults</p>
+
+<p>/Users/parkjinhong/Library/Application\ Support/Vienna/messages.db</p>
+
+<p>defaults write uk.co.opencommunity.vienna2 "DefaultDatabase" '~/Dropbox/_RSS/messages.db'</p>
+:ET

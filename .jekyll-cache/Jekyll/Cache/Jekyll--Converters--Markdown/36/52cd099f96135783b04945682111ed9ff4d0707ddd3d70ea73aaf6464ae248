@@ -1,0 +1,19 @@
+I"s<p>mind flow 해보고 싶다면 다음을 참고해보자.
+<a href="https://github.com/maxhutch/graphviz-java">graphviz-java</a></p>
+
+<hr />
+<p>Use graphviz with pure java.</p>
+
+<p>Uses this javascript version of graphviz created using Emscripten.</p>
+
+<p>The javascript code is executed either with J2V8 or, as a fallback with Java 8’s Nashorn engine.</p>
+
+<p>Usage</p>
+
+<p>The basic usage is as follows:</p>
+
+<p>import static guru.nidi.graphviz.model.Factory.*;</p>
+
+<p>Graph g = graph(“example”).directed().node(node(“a”).link(node(“b”)));
+Graphviz.fromGraph(g).renderToFile(new File(“example.png”));</p>
+:ET

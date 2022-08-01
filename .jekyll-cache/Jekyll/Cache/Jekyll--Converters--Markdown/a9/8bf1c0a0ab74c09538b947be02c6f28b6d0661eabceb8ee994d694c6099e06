@@ -1,0 +1,9 @@
+I"�<p>find/replace 하는 script</p>
+
+<blockquote>
+
+  <p>grep -r -l 'PLUS3' ./main.cpp | sort | uniq | xargs perl -e "s/PLUS3/PLUS4/" -pi</p>
+
+  <p>grep -r -l 'MINUS3' ./main.cpp | sort | uniq | xargs perl -e "s/MINUS3/MINUS4/" -pi</p>
+</blockquote>
+:ET

@@ -1,0 +1,2 @@
+I"<p>전자 gas 를 positive 전하를 띈 ion 과 negative 전하를 띈 전자로 구성된 plasma 로 생각할 수 있다. 이런 시스템에서 collective excitation 을 plasmon 으로 기술할 수 있다. collective excitation 을 기술하려면 KITTEL 의 접근법에 따라 dielectric function을 이해해야된다. epsilon -dielectric function- 은 frequency 와 momentum 에 의해 기술이 되는데, 모멘텀이 0으로 가는 극한에서는 long wavelength collective excitation 을 기술할 수 있고, frequency 가 0으로 가는 극한에서는 전자전자 상호작용, 전자-격자 상호작용, 전자-impurity 상호작용에 대한 screening 현상을 기술한다. 이제 이러한 dielectric function 으로부터 plasmon 이 무엇인지 이해해보자.</p>
+:ET

@@ -1,0 +1,17 @@
+I"j<p><del>ubuntu를 사용하게 되면 mac에서 사용하던 cmd+right 의 키mapping을 해야된다.</del><br />
+필요없음. 이미 fn+cursor로 맵핑되어있음.<br />
+<del>우선
+<code class="language-plaintext highlighter-rouge">sudo apt-get install xdotool</code>
+설치후</del>
+설정에 keyboard 에서<br />
+name : end<br />
+command : <code class="language-plaintext highlighter-rouge">bash -c "xdotool getactivewindow key End"</code><br />
+name : home<br />
+command : <code class="language-plaintext highlighter-rouge">bash -c "xdotool getactivewindow key Home"</code><br />
+name : home+shift<br />
+command : <code class="language-plaintext highlighter-rouge">bash -c "xdotool key Shift+Home"</code><br />
+name : end+shift<br />
+command : <code class="language-plaintext highlighter-rouge">bash -c "xdotool key Shift+End"</code><br />
+를 하면 된다.</p>
+
+:ET

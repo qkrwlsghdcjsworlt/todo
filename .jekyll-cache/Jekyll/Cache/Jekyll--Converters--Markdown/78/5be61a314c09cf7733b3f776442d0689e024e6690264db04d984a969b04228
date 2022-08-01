@@ -1,0 +1,11 @@
+I"�<p>terminal link 확인법</p>
+
+<p>ls -l 명령어</p>
+
+<p>예) ls -l /usr/local/bin/gfortran</p>
+
+<blockquote>
+
+  <p>lrwxr-xr-x  1 parkjinhong  admin  34 Jan 24 11:16 /usr/local/bin/gfortran -&gt; ../Cellar/gcc/6.3.0_1/bin/gfortran</p>
+</blockquote>
+:ET

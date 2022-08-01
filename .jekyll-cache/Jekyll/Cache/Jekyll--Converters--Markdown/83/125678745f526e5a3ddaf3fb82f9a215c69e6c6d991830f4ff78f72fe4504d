@@ -1,0 +1,8 @@
+I"�<p>shift+space 한영변환 해제</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(global-unset-key (kbd "S-SPC"))
+;;org-ref
+(require 'org-ref)
+</code></pre></div></div>
+
+:ET

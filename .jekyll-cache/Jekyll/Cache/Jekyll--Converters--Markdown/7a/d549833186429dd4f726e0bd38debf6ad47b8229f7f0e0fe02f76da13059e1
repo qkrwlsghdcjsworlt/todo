@@ -1,0 +1,18 @@
+I"�<p>ARPACK 를 설치해보았다. 잘 설치가 되고 간단한 예제도 실행할 수 있었음. 그 때 사용한 armake 파일을 기록해두면 다음과 같다. <a href="ARmake.html">ARmake.inc</a></p>
+
+<p>그리고, /UTIL/second.f 에 24번째 줄의</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  EXTERNAL           ETIME
+  
+  
+  를 comment 해야된다. 
+  
+  
+  * EXTERNAL           ETIME
+</code></pre></div></div>
+
+<p>matplotlib chap3 까지 다 봤다.</p>
+
+<p><a href="http://www.tkm.kit.edu/lehre/ws2014_1827.php">http://www.tkm.kit.edu/lehre/ws2014_1827.php</a> 재밌는 사이트를 발견했다. 이 내용들을 python으로 풀고 싶다는 생각이 든다.</p>
+
+:ET

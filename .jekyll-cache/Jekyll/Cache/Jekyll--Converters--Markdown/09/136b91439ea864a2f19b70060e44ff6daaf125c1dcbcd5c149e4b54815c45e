@@ -1,0 +1,33 @@
+I"<p>variational Monte Carlo 는 항상해보고 싶은 수치계산 방법 중 하나이다. 그래서 종종 구글 검색을 하게 되는데, 그러던중 hVMC 라는 github 페이지를 발견했다. hubbard 모델에 대해서 VMC 방법론으로 다양한 계산을 한 코드이다. 이것을 이해할 수 있을까?</p>
+
+<p>우선 gcc gfortran 으로 시작해서 mpich 를 설치하고 이것을 기반으로 boost 를 설치해야될거 같다. 과연 설치에 성공할 수 있을까?</p>
+<ul>
+  <li>
+    <p>설치에는 성공했는데, 여전히 error 가 나왔다.</p>
+  </li>
+  <li>
+    <p><a href="/todo/images/hVMC-thesis.pdf">hVMC-thesis</a> 이 석사논문 마지막에 어떻게 하면 VMC 를 build 할 수 있는지 나와있다. gcc, openmpi, boost eigen3 를 설치해야 됨을 알 수 있다.  이것을 따라해 볼 필요는 있어 보인다. 이왕 시작한거..  기대를 하고 gcc openmpi boost eigen3 를 차례로 설치해서 compile 시켜보았지만, 성공하지 못했다. 그냥 포기하고 논문 읽으면서 기본 컨셉만 배우자</p>
+  </li>
+  <li>
+    <p><a href="/todo/images/hVMC-PPT.pdf">hVMC-ppt</a> 여기에 논문 내용을 요약하였다.</p>
+  </li>
+  <li>
+    <p><a href="/todo/images/VMC-other-people.pdf">VMC-other-people</a> 이건 다른사람 논문인데, 이것도 참고해보자.</p>
+  </li>
+  <li>
+    <p><a href="/todo/images/ansatz-VMC.pdf">ansatz-VMC</a></p>
+  </li>
+  <li>
+    <p><a href="/todo/images/PALee-VMC.pdf">PALee VMC</a> Patrick Lee variational MC</p>
+  </li>
+  <li>
+    <p><a href="/todo/images/DHLee-VMC.pdf">DHLee VMC</a></p>
+  </li>
+  <li>
+    <p><a href="/todo/images/Ceperley-VMC.pdf">Ceperley VMC</a></p>
+  </li>
+  <li>
+    <p><a href="/todo/images/Scalapino-VMC.pdf">Scalapino VMC</a></p>
+  </li>
+</ul>
+:ET

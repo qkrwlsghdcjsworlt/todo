@@ -1,0 +1,7 @@
+I"p<p>키워드로 파일 찾고자할때</p>
+
+<blockquote>
+
+  <p>find . -iname "*keyword*"</p>
+</blockquote>
+:ET

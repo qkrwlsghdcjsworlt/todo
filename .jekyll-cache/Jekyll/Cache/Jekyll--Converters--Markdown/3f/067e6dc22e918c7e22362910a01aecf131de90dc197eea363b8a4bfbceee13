@@ -1,0 +1,13 @@
+I"�<p>gnu-emacs 에서 latex 하는 것이 문제였는데, load path 하는 것이 주요 포인트였다.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-12.1.0")
+(add-to-list 'load-path "/Users/parkjinhong/Dropbox/github/jmax/elpa/auctex-latexmk-1.0.2")
+</code></pre></div></div>
+
+<p>이것을 하면 load path 를 init.el 파일에 넣을 수 있다.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>C-h v load-path RET
+</code></pre></div></div>
+
+<p>이것은 load-path 를 확인하는 방법이다.</p>
+:ET

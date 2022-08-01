@@ -1,0 +1,12 @@
+I"�<p><strong>emacs 로 메일 시작</strong> <br />
+c-x m</p>
+
+<p><strong>attachment</strong> <br />
+c-c RET f</p>
+
+<p><strong>attachment options</strong> <br />
+inline, attachment</p>
+
+<p><strong>보내기</strong> <br />
+c-c c-s</p>
+:ET

@@ -1,0 +1,6 @@
+I"�<p>1) www.smisrt.com 에서 smi 를 srt 로 바꾼다. <br />
+(이 때 인코딩을 EUC-KR -&gt; UTF-8 을 선택해야 됨.)</p>
+
+<p>2) handbrake 에서 srt 자막을 추가시킨후 burned in선택하고 UTF-8 으로 encoding한다.</p>
+
+:ET

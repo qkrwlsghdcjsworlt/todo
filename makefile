@@ -1,5 +1,5 @@
 all:
-	jekyll serve --baseurl '' --watch
+	jekyll build
 	
 
 upload:

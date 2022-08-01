@@ -1,0 +1,17 @@
+I"*<p><a href="http://www.chriswrites.com/how-to-sync-files-and-folders-on-the-mac/">맥북 외장하드로 sync 시키는 방법</a></p>
+
+<ol>
+  <li>
+    <p>Open Terminal from the Utilities folder or Spotlight</p>
+  </li>
+  <li>
+    <p>In the Terminal window heading rsync -aE –delete ~/ <source folder="" /> / “<destination folder="">”</destination></p>
+  </li>
+</ol>
+
+<p>For example:</p>
+
+<p>rsync -aE –delete “~/Documents/” “/Volumes/Macbook Pro Backup/”</p>
+
+<p>This example keeps everything in the Home Folder’s Documents directory synchronised with the external disk named MacBook Pro Backup and deletes anything in the destination folder which isn’t already in the source folder. This example creates a copy of Documents in the top level of the external disk’s folder structure.</p>
+:ET

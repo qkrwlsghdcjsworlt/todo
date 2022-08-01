@@ -1,0 +1,7 @@
+I"�<p>go2shell</p>
+
+<p>configuration 여는 법</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>open -a Go2Shell --args config
+</code></pre></div></div>
+:ET

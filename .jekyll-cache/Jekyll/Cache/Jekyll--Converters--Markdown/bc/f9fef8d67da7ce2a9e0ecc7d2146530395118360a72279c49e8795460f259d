@@ -1,0 +1,5 @@
+I".<p>latex 수정 세팅을 atom editor 과 skim viewer로 선택하였다.
+latextools 패키지를 설치하면 cmd+alt+b 가 compile 하는 단축키이다.
+그리고 pdf에서 latex으로 backward search는 cmd+shift+click 이다.
+그리고, spell-check 는 text.tex.latex를 추가하면 된다.</p>
+:ET
