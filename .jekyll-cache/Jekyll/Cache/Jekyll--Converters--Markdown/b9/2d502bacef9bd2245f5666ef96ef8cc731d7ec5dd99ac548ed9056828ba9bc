@@ -1,0 +1,6 @@
+I"�<p>Triqs 를 macOS 에 설치하는 방법</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>conda install -c conda-forge mamba
+mamba install -c conda-forge triqs
+</code></pre></div></div>
+:ET
