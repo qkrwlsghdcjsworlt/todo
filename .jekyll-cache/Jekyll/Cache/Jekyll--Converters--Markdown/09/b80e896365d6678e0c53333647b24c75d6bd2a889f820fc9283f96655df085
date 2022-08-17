@@ -1,0 +1,14 @@
+I"�<p>Jupyter notebook plot 하기 좋은 library</p>
+
+<p><a href="https://nbviewer.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb#Tutorial">bokeh tutorial 5min</a></p>
+
+<p><a href="https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-3p2fd34c/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb">bokeh tuturial full</a></p>
+
+<p><a href="https://diplabs.tistory.com/11">블로그 설명</a></p>
+
+<p>bokeh??</p>
+<blockquote>
+
+  <p>bokeh 는 시각화를 도와주는 파이썬 라이브러리다. 파이썬을 사용하는 많은 사람들이 matplotlib 를 알고 있을 것이다. 거의 모든 분야에서 시각화 예제는 이 matplotlib 로 구현되어있기 때문이다. matlab 과 비슷하고, 편리하기도 하다. 하지만 단점으로는 반응형으로 만들기 어렵다는 것과 무엇보다도 그닥 이쁘지 않다는 것이다. 나는 더 비주얼적으로 임팩트가 있는 툴을 찾다가 bokeh 를 찾게 되었다. 우선 시선을 사로잡는 <strong>세련된 디자인</strong>과 다양한 기능이 있는 <strong>반응형</strong>이라는 것이 마음에 들었다. 무엇보다 <strong>jupyter</strong> 와 <strong>완벽히 호환</strong>된다는 것이 가장 매력적이다.</p>
+</blockquote>
+:ET
