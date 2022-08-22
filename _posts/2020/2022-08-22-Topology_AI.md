@@ -10,6 +10,8 @@ duration: "2022.AUG.22"
 
 topological materials 과 machine learning 이 만났다고 함. 
 
+[유튜브 채널](https://www.youtube.com/channel/UCXlN-CTCH5j4Kiec6YlSf9w/videos)
+
 [hands-on-information](https://tms-dipc.org/hands-on-information/)
 
 [lecture notes](https://tms-dipc.org/lecture-notes/)
