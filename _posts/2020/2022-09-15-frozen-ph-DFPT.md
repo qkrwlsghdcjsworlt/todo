@@ -26,6 +26,8 @@ DFPT 는 supercell 계산 안 해도 되서 헤비하지 않지만, 아무 DFT�
 
 그 밖에 참고할 만한 논문들.
 
+[phonon cal in QE ppt](/todo/images/phonon-cal-in-QE.pptx)
+
 [cond-mat/0407221](https://arxiv.org/pdf/cond-mat/0407221.pdf)
 
 [RevModPhys.89.015003](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.89.015003)
