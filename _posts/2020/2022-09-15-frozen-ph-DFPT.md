@@ -14,7 +14,7 @@ DFPT 는 P 가 perturbation 이라서 density functional 에 atomic 위치변화
 frozen phonon은 supercell 계산해야되서 계산이 헤비하지만, 어느 DFT 계산에서도 돌아간다는 장점이 있고,
 DFPT 는 supercell 계산 안 해도 되서 헤비하지 않지만, 아무 DFT에서 되지 않고 quantum espresso 같은 그런 기능이 있는 곳에서 계산 된다는점
 
-![DFTP](/todo/images/DFPT.png)   
+<img src="https://qkrwlsghdcjsworlt.github.io/todo/images/DFPT.png" width="300">   
 [DFTP](/todo/images/DFPT.png)
 
 
