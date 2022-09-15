@@ -22,7 +22,8 @@ DFPT 는 supercell 계산 안 해도 되서 헤비하지 않지만, 아무 DFT�
 
 [RevModPhys.73.515](https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.73.515)
 
-이 RMP 논문은 다음 ppt 를 보고 알았음. [Mon.5.Gironcoli](/todo/images/Mon.5.Gironcoli.pdf)
+이 RMP 논문은 다음 ppt 를 보고 알았음.  
+[Mon.5.Gironcoli](/todo/images/Mon.5.Gironcoli.pdf)
 
 그 밖에 참고할 만한 논문들.
 
