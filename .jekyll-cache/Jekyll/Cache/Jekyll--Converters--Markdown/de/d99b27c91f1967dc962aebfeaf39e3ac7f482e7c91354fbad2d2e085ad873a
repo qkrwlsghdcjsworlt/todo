@@ -1,0 +1,8 @@
+I"I<p>epub 확장자 파일도 이제부터 kindle 에서 호환가능하다.</p>
+
+<p>하지만, 바로 호환가능한 것은 아니고 kindle 계정으로 메일을 보내면 amazon 에서 자동으로 파일을 변환해서 kindle 기기로 보내준다. 하지만, 문제점은 40MB 가 넘는 파일은 이메일 첨부파일로 보낼 수가 없기때문에(이메일 회사의 용량 한도 때문..) 소프트웨어로 epub 파일을 kindle 호환 파일로 바꾸어야 한다. 
+그 방법중 하나가 calibre 라는 ebook reader 를 이용하는 것이다. 
+calibre 에 epub 파일을 읽어들여서 azw 파일로 전환후 kindle whitepaper 기기로 내보내기 하면 된다.</p>
+
+<p>calibre 자체도 아주 깔끔하게 ebook 을 볼 수 있기 때문에 여기에 epub 파일을 업로드해서 책을 볼 수도 있다.</p>
+:ET
