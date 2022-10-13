@@ -14,4 +14,4 @@ duration: "2022.OCT.11"
 루아러블 [루아러블 스마트워치 실리콘 밴드](https://www.coupang.com/vp/products/6368236176?itemId=13476605006&searchId=f590eebec7434928bfff8c6c4824db08&vendorItemId=82373387764&sourceType=SDP_BOUGHT_TOGETHER&isAddedCart=)
 
 
-마그네틱 밴드 [마그네틱 밴드](https://m.i-m-all.com/)
+마그네틱 밴드 [마그네틱 밴드](https://m.i-m-all.com/product/detail.html?product_no=1431)
