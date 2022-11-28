@@ -1,0 +1,11 @@
+I"�<p>pip을 통해 nbconvert 설치</p>
+<blockquote>
+
+  <p>pip install nbconvert</p>
+</blockquote>
+
+<blockquote>
+
+  <p>jupyter nbconvert –to markdown JUPYTER_NOTEBOOK.ipynb</p>
+</blockquote>
+:ET
