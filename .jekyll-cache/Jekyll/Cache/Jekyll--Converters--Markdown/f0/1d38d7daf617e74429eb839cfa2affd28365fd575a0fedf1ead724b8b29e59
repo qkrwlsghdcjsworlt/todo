@@ -1,0 +1,7 @@
+I"<h1 id="pip을-통해-nbconvert-설치">pip을 통해 nbconvert 설치</h1>
+<p>pip install nbconvert</p>
+<h1 id="conda를-통해-nbconvert-설치">conda를 통해 nbconvert 설치</h1>
+<p>conda install nbconvert</p>
+
+<p>jupyter nbconvert –to markdown JUPYTER_NOTEBOOK.ipynb</p>
+:ET
