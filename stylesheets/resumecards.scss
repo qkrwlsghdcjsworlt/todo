@@ -539,7 +539,7 @@ script + p {
     padding-top: $space-sm;
 
     .row + .row {
-      padding-top: $space-md / 4;
+      padding-top: calc($space-md / 4);
     }
   }
 
