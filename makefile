@@ -1,5 +1,5 @@
 all:
-	jekyll build
+	mv ./_posts/2024/principle.md ./_posts/2024/$$(date +%Y-%m-%d)-principle.md; jekyll build; 
 	
 
 upload:
@@ -7,4 +7,3 @@ upload:
 
 pull:
 	eval `ssh-agent`;ssh-add ~/.ssh/id_todo_rsa; git pull origin gh-pages
-
