@@ -11,3 +11,4 @@ heading : "원칙"
 [ATR 원칙 (링크)](/todo/images/principle_2024-09-30.jpeg)  
 [주말 월요일 원칙 (링크)](/todo/images/principle-2024-09-30.png)   
 [피봇 확률 (링크)](/todo/images/principle-2024-10-01.png)    
+[1/3 원칙 (링크)](/todo/images/principle-2024-10-05.png)    
