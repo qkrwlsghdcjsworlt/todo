@@ -12,3 +12,4 @@ heading : "원칙"
 [주말 월요일 원칙 (링크)](/todo/images/principle-2024-09-30.png)   
 [피봇 확률 (링크)](/todo/images/principle-2024-10-01.png)    
 [1/3 원칙 (링크)](/todo/images/principle-2024-10-05.png)    
+[1봉 피봇 모멘트 (링크)](/todo/images/principle-2024-10-07.jpeg)   
