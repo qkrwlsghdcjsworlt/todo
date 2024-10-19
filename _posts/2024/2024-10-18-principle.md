@@ -14,4 +14,5 @@ heading : "원칙"
 [1봉 피봇 모멘트 (링크)](/todo/images/principle-2024-10-07.jpeg)   
 [피보나치 (링크)](/todo/images/principle-2024-10-15-10AM.png)   
 [order flow (링크)](/todo/images/principle-2024-10-17.png)    
-[high volume 되돌림 (링크)](/todo/images/principle-2024-10-17-10AM.png)
+[high volume 되돌림 (링크)](/todo/images/principle-2024-10-17-10AM.png)  
+[invalidation (링크)](/todo/images/principle-2024-10-19.jpeg)
