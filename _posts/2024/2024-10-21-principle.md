@@ -16,3 +16,4 @@ heading : "원칙"
 [order flow (링크)](/todo/images/principle-2024-10-17.png)    
 [high volume 되돌림 (링크)](/todo/images/principle-2024-10-17-10AM.png)  
 [invalidation (링크)](/todo/images/principle-2024-10-19.jpeg)
+[Whale마음,early long (링크)](/todo/images/principle-2024-10-22.png)
