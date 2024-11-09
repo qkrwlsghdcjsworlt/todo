@@ -18,4 +18,5 @@ heading : "원칙"
 [invalidation, ](/todo/images/principle-2024-10-19.jpeg)
 [Whale마음,early long](/todo/images/principle-2024-10-22.png)    
 [market session, ](/todo/images/principle-2024-10-27.png)
-[반전되는 4가지 원칙](/todo/images/market-structure-shift.png) 
+[반전되는 4가지 원칙](/todo/images/market-structure-shift.png)     
+[대상승후 체크포인트](/todo/images/Wyckoff-2024-11-09.png) 
