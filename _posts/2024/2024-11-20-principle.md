@@ -21,5 +21,4 @@ heading : "원칙"
 [반전되는 4가지 원칙](/todo/images/market-structure-shift.png)     
 [대상승후 체크포인트, ](/todo/images/Wyckoff-2024-11-09.png)
 [파라볼릭 상승 공략법](/todo/images/parabolic.JPG)    
-[파라볼릭 상승 예제,  ](/todo/images/parabolic_ascending.png)
-[파라볼릭 하락 예제](/todo/images/parabolic_decending.png)      
+[임펄스 예제](/todo/images/impulse.png)     
