@@ -6,7 +6,7 @@ heading : "원칙"
 ---
  
 
-
+[트럼프 당선](/todo/images/trump.png)    
 [새로운 원칙, ](/todo/images/principle_2024-09-29.jpeg)
 [주말 월요일 원칙](/todo/images/principle-2024-09-30.png)   
 [피봇 확률, ](/todo/images/principle-2024-10-01.png)
