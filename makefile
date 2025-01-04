@@ -1,5 +1,5 @@
 all:
-	mv ./_posts/2024/principle.md ./_posts/2024/$$(date -v-1d +%Y-%m-%d)-principle.md; jekyll build; 
+	mv ./_posts/2025/principle.md ./_posts/2025/$$(date -v-1d +%Y-%m-%d)-principle.md; jekyll build; 
 	
 
 upload:
