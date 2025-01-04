@@ -3,7 +3,7 @@ all:
 	
 
 upload:
-	eval `ssh-agent`;ssh-add ~/.ssh/id_todo_rsa; git add .;git commit -m “update”;git push origin gh-pages;  mv ./_posts/2024/$$(date -v-1d +%Y-%m-%d)-principle.md ./_posts/2024/principle.md;
+	eval `ssh-agent`;ssh-add ~/.ssh/id_todo_rsa; git add .;git commit -m “update”;git push origin gh-pages;  mv ./_posts/2025/$$(date -v-1d +%Y-%m-%d)-principle.md ./_posts/2025/principle.md;
 
 pull:
 	eval `ssh-agent`;ssh-add ~/.ssh/id_todo_rsa; git pull origin gh-pages
