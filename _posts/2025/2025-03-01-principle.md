@@ -5,7 +5,7 @@ heading : "원칙"
 
 ---
  
-[2025 원칙 ](/todo/images/principle-2025FEB.png)
+[2025 원칙 ](/todo/images/principle-2025FEB.png)     
 [트럼프 당선, ](/todo/images/trump.png)
 [2024 Mar vs 2024 Nov](/todo/images/bullmarket.png)      
 [제 1 원칙](/todo/images/BTC-principle-2024-12-10.png)     
