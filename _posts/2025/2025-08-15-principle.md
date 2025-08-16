@@ -8,7 +8,7 @@ heading : "원칙"
 [2025 원칙, ](/todo/images/principle-2025FEB.png)
 [트럼프 당선, ](/todo/images/trump.png)
 [이재명 당선](/todo/images/이재명당선.png)    
-[3DRP](/todo/images/3DRP.png)
+[3DRP](/todo/images/3DRP.pdf)
 [2024 Mar vs 2024 Nov](/todo/images/bullmarket.png)
 [제 1 원칙](/todo/images/BTC-principle-2024-12-10.png)     
 [새로운 원칙, ](/todo/images/principle_2024-09-29.jpeg)
