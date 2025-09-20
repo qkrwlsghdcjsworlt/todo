@@ -16,8 +16,7 @@ heading : "원칙"
 [새로운 원칙, ](/todo/images/principle_2024-09-29.jpeg)
 [주말 월요일 원칙](/todo/images/principle-2024-09-30.png)   
 [피봇 확률, ](/todo/images/principle-2024-10-01.png)
-[1/3 원칙](/todo/images/principle-2024-10-05.png)
-**[BTC 시장구조](/todo/images/BTC-market-structure.svg)**      
+[1/3 원칙](/todo/images/principle-2024-10-05.png)     
 [1봉 피봇 모멘트, ](/todo/images/principle-2024-10-07.jpeg)
 [피보나치](/todo/images/principle-2024-10-15-10AM.png)   
 [order flow, ](/todo/images/principle-2024-10-17.png)
